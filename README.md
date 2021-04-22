@@ -21,6 +21,6 @@ The certificates will be placed in */etc/letsencrypt*
 ## Environment Variables
 
 ```.env
-dns_linode_key = 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ64
-dns_linode_version = [<blank>|3|4]
+API_KEY=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ64
+API_VERSION=[<blank>|3|4]
 ```
